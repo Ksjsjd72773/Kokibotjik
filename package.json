@@ -1,0 +1,14 @@
+{
+  "name": "bedrock-telegram-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram + Bedrock",
+  "main": "BedrockBot.js",
+  "scripts": {
+    "start": "node BedrockBot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.45.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "moment-timezone": "^0.5.43"
+  }
+}
