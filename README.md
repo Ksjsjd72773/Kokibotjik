@@ -1,2 +1,0 @@
-# Kokibotjik
-Jikol
